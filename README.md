@@ -64,3 +64,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 757715 | [Hayk Kocharyan](https://github.com/hayk99) | [hayk99/lab6-microservices](https://github.com/hayk99/lab6-microservices/tree/test) |    |
 | 761754 | [Victor Martinez](https://github.com/viriannn) | [viriannn/lab6-microservices](https://github.com/viriannn/lab6-microservices/tree/test) |    |
 | 755742 | [Juan José Tambo](https://github.com/jtambo99) | [jtambo99/lab6-microservices](https://github.com/jtambo99/lab6-microservices/tree/test) |    |
+| 758325 | [Irene Fumanal Lacoma](https://github.com/irefu) | [irefu/lab6-microservices](https://github.com/irefu/lab6-microservices/tree/test) |    |
